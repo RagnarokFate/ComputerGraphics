@@ -22,7 +22,7 @@ In this folder,I've implemented these procedures:
 4. FaceCulling + Subdivision + Mesh Model Axis + Mesh Model Physical Vertex/Face Normal Draw.
 
 ### VIDEO :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/0vET6tWKGJc?si=xiiOJZU-WIdVMYdq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/0vET6tWKGJc/0.jpg)](https://www.youtube.com/watch?v=0vET6tWKGJc)
 
 
 ### Folder #2 - Computer-Graphics-version1-C++
@@ -33,7 +33,8 @@ In this folder,I've implemented these procedures:
 4. Post processing (Fug and Gaussian Blur)
 
 ### VIDEO :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/fQ9wnf7RXsU?si=VXYo-08hmpSLLbs1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/fQ9wnf7RXsU/0.jpg)](https://www.youtube.com/watch?v=fQ9wnf7RXsU)
+
 
 ### Folder #3 - Computer-Graphics-version1-C++
 Lastly, we converted the whole C++ Project into OpenGL implementation through shaders that runs in GPU.
@@ -44,4 +45,4 @@ Lastly, we converted the whole C++ Project into OpenGL implementation through sh
 5. Enviroment Mapping + Normal Mapping + Toon Shading.
 
 ### VIDEO :
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rK9Bxtf3mWE?si=PdA0_n9OtivPiAZa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+[![Video](https://img.youtube.com/vi/rK9Bxtf3mWE/0.jpg)](https://www.youtube.com/watch?v=rK9Bxtf3mWE)

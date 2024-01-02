@@ -25,7 +25,7 @@ In this folder,I've implemented these procedures:
 [![Video](https://img.youtube.com/vi/0vET6tWKGJc/0.jpg)](https://www.youtube.com/watch?v=0vET6tWKGJc)
 
 
-### Folder #2 - Computer-Graphics-version1-C++
+### Folder #2 - Computer-Graphics-version2-C++
 In this folder,I've implemented these procedures:
 1. Mesh Model Depth Calculation which operated in each face indiviually and stored in Z-buffer (an array of size Height x Width x 3(RGB)).
 2. Mesh Model Face Full paint.
@@ -36,7 +36,7 @@ In this folder,I've implemented these procedures:
 [![Video](https://img.youtube.com/vi/fQ9wnf7RXsU/0.jpg)](https://www.youtube.com/watch?v=fQ9wnf7RXsU)
 
 
-### Folder #3 - Computer-Graphics-version1-C++
+### Folder #3 - Computer-Graphics-version3-OpenGL
 Lastly, we converted the whole C++ Project into OpenGL implementation through shaders that runs in GPU.
 1. Mesh Model display 
 2. Mesh Model Transformation
